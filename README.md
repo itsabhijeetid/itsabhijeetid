@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhijeetid&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhijeetid" /> </p>
 
-- Flutter app on Play Store [nExpense Tracker](https://play.google.com/store/apps/details?id=com.akprc.expensetracker&pli=1)
+- 🚀 Flutter app on Play Store [nExpense Tracker](https://play.google.com/store/apps/details?id=com.akprc.expensetracker&pli=1)
 
 - 👨‍💻 Linktree Profile [https://linktr.ee/itsabhijeetid](https://linktr.ee/itsabhijeetid)
 
