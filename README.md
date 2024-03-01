@@ -1,7 +1,12 @@
 <p align="center">
   <img align="center" src="https://i.ibb.co/FnzDJZY/computalk.gif">
   <h5 align="center">Welcome to My GitHub</h5>
-  <h6 align="center">have fun & try not to break anything</h6>
+  <h6 align="center">
+𝑤ₕᵢₗₑ₍ₙₒₛᵤ𝑐𝑐ₑₛₛ₎ {<br>
+ₜᵣ𝑦ₐ𝑔ₐᵢₙ₍ ₎;<br>
+ᵢ𝑓 ₍𝐷ₑₐ𝑑₎<br>
+𝑏ᵣₑₐₖ;<br>
+}</h6>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandit</h1>
