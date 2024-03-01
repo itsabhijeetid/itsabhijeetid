@@ -1,3 +1,9 @@
+<p align="center">
+  <img align="center" src="https://i.ibb.co/FnzDJZY/computalk.gif">
+  <h5 align="center">Welcome to My GitHub</h5>
+  <h6 align="center">have fun & try not to break anything</h6>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandit</h1>
 <h3 align="center">A Computer Science Engineering student (2024) batch.</h3>
 
