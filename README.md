@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" src="https://i.ibb.co/FnzDJZY/computalk.gif">
   <h5 align="center">Welcome to My GitHub</h5>
-  <h6 align="center">
+  <h6>
 𝑤ₕᵢₗₑ₍ₙₒₛᵤ𝑐𝑐ₑₛₛ₎ {<br>
 ₜᵣ𝑦ₐ𝑔ₐᵢₙ₍ ₎;<br>
 ᵢ𝑓 ₍𝐷ₑₐ𝑑₎<br>
