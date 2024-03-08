@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandit</h1>
 <h3 align="center">A Computer Science Engineering student (2024) batch.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhijeetid&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhijeetid" /> </p>
 <a href="https://www.github.com/itsabhijeetid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsabhijeetid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhijeetid&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhijeetid" /> </p>
 
 - 🚀 Flutter app on Play Store [nExpense Tracker](https://play.google.com/store/apps/details?id=com.akprc.expensetracker&pli=1)
 
