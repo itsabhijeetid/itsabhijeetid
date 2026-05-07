@@ -1,24 +1,35 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandit</h1>
 <h3 align="center">Data Engineer | Azure | Databricks | PySpark | Microsoft Fabric</h3>
 
+<p align="center">
+Building scalable ETL/ELT pipelines, real-time streaming architectures, and modern lakehouse solutions on Microsoft Azure.
+</p>
+
+<p align="center">
+  <a href="https://github.com/itsabhijeetid">
+    <img src="https://komarev.com/ghpvc/?username=itsabhijeetid&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- Data Engineer at TCS working on enterprise-scale Azure data platforms
-- Experienced in building ETL/ELT pipelines using Azure Data Factory, Databricks, PySpark, and Microsoft Fabric
-- Skilled in real-time streaming, Delta Lake, Medallion Architecture, and Data Warehousing
-- Focused on scalable data processing, optimization, and cloud-based analytics solutions
+- Data Engineer with experience in building scalable cloud-based data platforms and streaming pipelines
+- Working on Azure Data Factory, Databricks, PySpark, Delta Lake, and Microsoft Fabric
+- Experienced in ETL/ELT pipelines, Delta Live Tables (DLT), CDC pipelines, and Medallion Architecture
+- Focused on performance optimization, fault-tolerant processing, and analytics-ready data solutions
+- Open to Data Engineering opportunities and collaborations
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud & Data Engineering
+### Cloud & Platforms
 - Microsoft Azure
-- Azure Data Factory (ADF)
-- Databricks
 - Microsoft Fabric
+- Azure Data Factory (ADF)
+- Azure Databricks
 - ADLS Gen2
 - Delta Lake
 
@@ -29,29 +40,43 @@
 
 ### Data Engineering Concepts
 - ETL / ELT Pipelines
-- Data Warehousing
-- Medallion Architecture
+- Real-Time Streaming
 - Delta Live Tables (DLT)
 - CDC Pipelines
-- Real-Time Streaming
-- Data Modeling
+- Medallion Architecture
+- Data Warehousing
 - Star Schema
+- Data Modeling
+- Pipeline Optimization
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Real-Time Ride Intelligence Platform
-Built a real-time streaming data pipeline using Azure Event Hub, Databricks, Delta Live Tables, and Delta Lake with Medallion Architecture.
+Built a scalable real-time streaming platform using Azure Event Hub, Databricks, Delta Live Tables (DLT), and Delta Lake with Medallion Architecture.
+
+**Tech Stack:** Azure Data Factory, Databricks, PySpark, Event Hub, Delta Lake, ADLS Gen2
 
 🔗 https://github.com/itsabhijeetid/Real-Time-Ride-Intelligence-Platform
 
 ---
 
 ### 🔹 Data Warehouse Ingestion & SCD Pipeline
-Implemented scalable ingestion pipelines and SCD Type 1 & 2 workflows using Microsoft Fabric, Lakehouse, and Warehouse architecture.
+Designed and implemented scalable warehouse ingestion pipelines with SCD Type 1 & Type 2 processing using Microsoft Fabric Lakehouse architecture.
+
+**Tech Stack:** Microsoft Fabric, Pipelines, Lakehouse, Warehouse, SQL, PySpark
 
 🔗 https://github.com/itsabhijeetid/Data-Warehouse-Ingestion-SCD-Pipeline
+
+---
+
+## 📈 Currently Working On
+
+- Advanced Spark & Databricks Optimization
+- Streaming Architectures
+- Microsoft Fabric Lakehouse Solutions
+- Production-grade Data Engineering Workflows
 
 ---
 
@@ -59,3 +84,7 @@ Implemented scalable ingestion pipelines and SCD Type 1 & 2 workflows using Micr
 
 - LinkedIn: https://linkedin.com/in/itsabhijeetid
 - GitHub: https://github.com/itsabhijeetid
+
+---
+
+⭐ Passionate about building scalable, reliable, and modern data engineering solutions.
