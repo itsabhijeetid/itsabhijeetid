@@ -62,6 +62,15 @@ Built a scalable real-time streaming platform using Azure Event Hub, Databricks,
 
 ---
 
+### 🔹 Data Modeling Engineering Project
+Designed and implemented a data modeling project focused on dimensional modeling, fact and dimension tables, and scalable analytical data structures.
+
+**Tech Stack:** SQL, Data Modeling, Star Schema, Fact & Dimension Modeling
+
+🔗 https://github.com/itsabhijeetid/data-modeling-engineering-project/tree/main
+
+---
+
 ### 🔹 Data Warehouse Ingestion & SCD Pipeline
 Designed and implemented scalable warehouse ingestion pipelines with SCD Type 1 & Type 2 processing using Microsoft Fabric Lakehouse architecture.
 
