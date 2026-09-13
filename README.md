@@ -67,7 +67,7 @@ Designed and implemented a data modeling project focused on dimensional modeling
 
 **Tech Stack:** Databricks, Spark SQL, Data Modeling, Star Schema, Fact & Dimension Modeling
 
-🔗 https://github.com/itsabhijeetid/data-modeling-engineering-project/tree/main
+🔗 https://github.com/itsabhijeetid/data-modeling-engineering-project
 
 ---
 
