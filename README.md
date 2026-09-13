@@ -17,7 +17,7 @@ Building scalable ETL/ELT pipelines, real-time streaming architectures, and mode
 
 - Data Engineer with experience in building scalable cloud-based data platforms and streaming pipelines
 - Working on Azure Data Factory, Databricks, PySpark, Delta Lake, and Microsoft Fabric
-- Experienced in ETL/ELT pipelines, Delta Live Tables (DLT), CDC pipelines, and Medallion Architecture
+- Experienced in ETL/ELT pipelines, Delta Live Tables (DLT), CDC pipelines, Medallion Architecture and Data Modeling
 - Focused on performance optimization, fault-tolerant processing, and analytics-ready data solutions
 - Open to Data Engineering opportunities and collaborations
 
@@ -65,7 +65,7 @@ Built a scalable real-time streaming platform using Azure Event Hub, Databricks,
 ### 🔹 Data Modeling Engineering Project
 Designed and implemented a data modeling project focused on dimensional modeling, fact and dimension tables, and scalable analytical data structures.
 
-**Tech Stack:** SQL, Data Modeling, Star Schema, Fact & Dimension Modeling
+**Tech Stack:** Databricks, Spark SQL, Data Modeling, Star Schema, Fact & Dimension Modeling
 
 🔗 https://github.com/itsabhijeetid/data-modeling-engineering-project/tree/main
 
